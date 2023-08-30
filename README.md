@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=Ajeong%20Im&fontSize=40)
 
-<h3 align="center">👾 Tech Stack 👾</h3>
+<h2 align="center">👾 Tech Stack 👾</h2>
 
 <div align=center>
 <p align="center">🎧 Language 🎧</p>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=Tailwind Css&logoColor=white">  
 
-<h3 align="center">🎥 Tool 🎥</h3>
+<h2 align="center">🎥 Tool 🎥</h2>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
