@@ -21,7 +21,8 @@
 
 ***
 
-![Ajeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajeong-Im&show_icons=true&theme=tokyonight)
+![Ajeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajeong-Im&show_icons=true&theme=tokyonight)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeong-Im)](https://github.com/Ajeong-Im/github-readme-stats)
   
 </div>
 
