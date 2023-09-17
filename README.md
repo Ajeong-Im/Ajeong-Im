@@ -21,7 +21,7 @@
 
 ***
 
-<br>
+
 ![ajeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajeong-Im&show_icons=true&theme=radical)
   
 </div>
