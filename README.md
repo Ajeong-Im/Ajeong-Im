@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=Ajeong%20Im&fontSize=40)  
 
-<h2 align="center">👾 Tech Stack 👾</h2>
+<h2 align="center">👾 Tech Stack 👾</h2> 
 
 <div align=center>
   
