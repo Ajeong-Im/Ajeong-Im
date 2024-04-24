@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&&text=Ajeong%20Im&fontSize=40)
 
 <h2 align="center">👾 Tech Stack 👾</h2> 
-
+ 
 <div align=center>
   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
